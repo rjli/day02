@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class ServletDemo1 extends HttpServlet {
 
+//rgtjhtkjhlmkn
 	//xinjnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
